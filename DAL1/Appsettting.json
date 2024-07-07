@@ -1,0 +1,7 @@
+{
+  
+  "ConnectionStrings": {
+
+    "DefaultConnection": "Data Source=LAPTOP-92R3ST6F\\SQLEXPRESS;Initial Catalog=StudentsDB;Integrated Security=True;"
+  }
+}

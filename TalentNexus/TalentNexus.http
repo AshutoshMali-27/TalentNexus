@@ -1,0 +1,6 @@
+@TalentNexus_HostAddress = http://localhost:5073
+
+GET {{TalentNexus_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
